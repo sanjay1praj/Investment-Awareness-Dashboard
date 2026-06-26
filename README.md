@@ -19,7 +19,7 @@ Analyze the awareness, preferences, and investment patterns of young investors u
 
 ## Dashboard Preview
 
-![Investment Dashboard](Investment.png)
+![Investment Dashboard](investment.png)
 
 ## Files
 - Investment Dashboard PDF
