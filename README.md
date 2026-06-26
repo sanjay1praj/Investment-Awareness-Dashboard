@@ -1,4 +1,5 @@
 # Investment-Awareness-Dashboard
+
 Interactive Power BI dashboard analyzing investment awareness and investment patterns among young investors.
 
 ## Business Objective
@@ -18,8 +19,10 @@ Analyze the awareness, preferences, and investment patterns of young investors u
 
 ## Dashboard Preview
 
-### Page 1
-![Dashboard Page 1](1st.png)
+![Investment Dashboard](Investment.png)
+
+## Files
+- Investment Dashboard PDF
 
 ## Author
 Sanjay P Raj
